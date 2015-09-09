@@ -1,6 +1,6 @@
 # according-to-Jeffrey
-All themes from Dayle Rees colour-schemes repo with changed LINE_SPACING to 1.5 and EDITOR_FONT_SIZE to 15 according to Jeffrey Way Be Awesome In PhpStorm tutorials.
-### search and replace done with VIM
+All themes from Dayle Rees colour-schemes repo with changed LINE_SPACING to 1.5 and EDITOR_FONT_SIZE to 15 according to Be Awesome In PhpStorm tutorials by Jeffrey Way.
+### Search and replace done with VIM
 ```
 vim
 :args *
